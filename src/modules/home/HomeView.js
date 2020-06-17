@@ -35,7 +35,7 @@ export default function HomeScreen({ isExtended, setIsExtended }) {
         </View>
         <View style={styles.section}>
           <Text color="#19e7f7" size={15}>
-            The smartest Way to build your mobile app
+           Smartest Way to build your mobile app
           </Text>
           <Text size={30} bold white style={styles.title}>
             Inventory Apps v1.0.0
