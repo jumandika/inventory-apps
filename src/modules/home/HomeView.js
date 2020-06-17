@@ -44,7 +44,7 @@ export default function HomeScreen({ isExtended, setIsExtended }) {
         <View style={[styles.section, styles.sectionLarge]}>
           <Text color="#19e7f7" hCenter size={15} style={styles.description}>
             {' '}
-            A powerful starter project that bootstraps development of your
+            Powerful starter project that bootstraps development of your
             mobile application and saves you $20 000*
           </Text>
           <View style={styles.priceContainer}>
